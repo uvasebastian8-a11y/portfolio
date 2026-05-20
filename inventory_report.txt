@@ -1,0 +1,3 @@
+Inventory Report
+----------------
+Books and Members summary will go here.
